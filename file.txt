@@ -1,2 +1,3 @@
 git merge 1
 git merge 2
+git merge 3
